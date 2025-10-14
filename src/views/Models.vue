@@ -673,7 +673,7 @@ const models = ref([
   {
     id: 2,
     name: 'RNN-UtHar-Ours',
-    algorithm: 'FedSAK',
+    algorithm: 'Ours',
     status: 'deployed',
     accuracy: 70.3,
     size: 43607,
